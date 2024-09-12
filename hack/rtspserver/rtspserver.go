@@ -4,10 +4,10 @@ import (
 	"os"
 	"time"
 
-	"../../network"
+	"github.com/Yokosa/mjsxj06cm-web-server/network"
 
-	"../../config"
-	"../../service"
+	"github.com/Yokosa/mjsxj06cm-web-server/config"
+	"github.com/Yokosa/mjsxj06cm-web-server/service"
 )
 
 type RTSPServerConfig struct {

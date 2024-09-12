@@ -6,8 +6,8 @@ import (
 	"os"
 	"strconv"
 
-	"../../config"
-	"../../service"
+	"github.com/Yokosa/mjsxj06cm-web-server/config"
+	"github.com/Yokosa/mjsxj06cm-web-server/service"
 )
 
 const ID = "motor-control"

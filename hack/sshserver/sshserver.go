@@ -1,9 +1,9 @@
 package sshserver
 
 import (
-	"../../config"
-	"../../customerror"
-	"../../service"
+	"github.com/Yokosa/mjsxj06cm-web-server/config"
+	"github.com/Yokosa/mjsxj06cm-web-server/customerror"
+	"github.com/Yokosa/mjsxj06cm-web-server/service"
 	"github.com/tredoe/osutil/user/crypt/sha512_crypt"
 )
 

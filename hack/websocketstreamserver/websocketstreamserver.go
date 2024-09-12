@@ -1,9 +1,9 @@
 package websocketstreamserver
 
 import (
-	"../../config"
-	"../../network"
-	"../../service"
+	"github.com/Yokosa/mjsxj06cm-web-server/config"
+	"github.com/Yokosa/mjsxj06cm-web-server/network"
+	"github.com/Yokosa/mjsxj06cm-web-server/service"
 )
 
 const ID = "websocket-stream-server"
