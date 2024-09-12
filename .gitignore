@@ -1,0 +1,10 @@
+.scannerwork
+
+bin
+pkg
+vendor
+
+dist
+test
+
+.vscode
